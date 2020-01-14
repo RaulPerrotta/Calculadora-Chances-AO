@@ -1,0 +1,10 @@
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\CalculadoraChanceAO.exe.config
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\CalculadoraChanceAO.exe
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\CalculadoraChanceAO.pdb
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\obj\Debug\CalculadoraChanceAO.exe
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\obj\Debug\CalculadoraChanceAO.pdb
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\INIFileParser.dll
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\INIFileParser.xml
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\obj\Debug\CalculadoraChanceAO.csproj.CopyComplete
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\bin\Debug\Alba.CsConsoleFormat.dll
+C:\Users\perro\source\repos\CalculadoraChanceAO\CalculadoraChanceAO\obj\Debug\CalculadoraChanceAO.csprojAssemblyReference.cache
