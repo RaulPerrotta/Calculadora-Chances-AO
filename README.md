@@ -10,21 +10,5 @@ respectivamente) se quiere usar.
 
 Es posible cambiar los modificadores de clase y raza entrando a sus respectivos archivos .ini.
 
-Los distintos modificadores de clase en clases.ini son;
-[CLASE]
-CCA = Modificador de punteria en Combate con Armas.
-PRO = Modificador de punteria en Armas de Proyectiles.
-CSA = Modificador de punteria en Combate sin Armas.
-TDC = Modificador de evasion en Tacticas de Combate.
-ESC = Modificador de evasion en Defensa con Escudos.
-
-Los distintos modificadores de raza en razas.ini son;
-[RAZA]
-FUE = Modificador en el atributo Fuerza.
-AGI = Modificador en el atributo Agilidad.
-INT = Modificador en el atributo Inteligencia.
-CAR = Modificador en el atributo Carisma.
-CON = Modificador en el atributo Constitucion.
-
-Para agregar nuevas clases o razas se debe utilizar el formato antes mencionado asi como actualizar el listado de clases o razas que
+Para agregar nuevas clases o razas se debe utilizar el formato pre-establecido asi como actualizar el listado de clases o razas que
 se encuentra en el inicio de cada .ini.
